@@ -1,7 +1,9 @@
 # Project Ideas
 [interviewbit](https://www.interviewbit.com/blog/category/projects/) · [Coding Challenges](https://codingchallenges.fyi/)
+# System Design
+[How 0.1% Companies Do Hyperscaling](https://newsletter.systemdesign.one/p/cell-based-architecture)
 # Blogs
-[Popular topics for C++ interviews (with links)](https://www.pradeepbangalore.in/post/popular-topics-for-c-interviews) · [EXCEPTION HANDLING: A FALSE SENSE OF SECURITY by Tom Cargill](https://ptgmedia.pearsoncmg.com/images/020163371x/supplements/Exception_Handling_Article.html) · [Learn Modern C++ cpptutor](https://learnmoderncpp.com/author/learnmoderncpp/) · [DEV Community](https://dev.to/)
+[Popular topics for C++ interviews (with links)](https://www.pradeepbangalore.in/post/popular-topics-for-c-interviews) · [EXCEPTION HANDLING: A FALSE SENSE OF SECURITY by Tom Cargill](https://ptgmedia.pearsoncmg.com/images/020163371x/supplements/Exception_Handling_Article.html) · [Learn Modern C++ cpptutor](https://learnmoderncpp.com/author/learnmoderncpp/) · [DEV Community](https://dev.to/) · [Byte-sized Design's Official List of System Design Blogs](https://bytesizeddesign.substack.com/p/the-byte-sized-design-list-of-system)
 # Online books
 [C++ Concurrency in Action, 2nd](https://livebook.manning.com/book/c-plus-plus-concurrency-in-action-second-edition/)
 # Conferences
@@ -21,3 +23,5 @@
 [cppreference.com Useful resources](https://en.cppreference.com/w/cpp/links)
 # Style Guides
 [Google Style Guides](https://google.github.io/styleguide/) · [PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/)
+# Communities
+[Open Source and Free Software in Israel - Meetup](https://www.meetup.com/Open-Source-and-Free-Software-in-Israel/)
