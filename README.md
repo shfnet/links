@@ -3,7 +3,7 @@
 # System Design
 [How 0.1% Companies Do Hyperscaling](https://newsletter.systemdesign.one/p/cell-based-architecture)
 # Blogs
-[Popular topics for C++ interviews (with links)](https://www.pradeepbangalore.in/post/popular-topics-for-c-interviews) • [EXCEPTION HANDLING: A FALSE SENSE OF SECURITY by Tom Cargill](https://ptgmedia.pearsoncmg.com/images/020163371x/supplements/Exception_Handling_Article.html) • [Learn Modern C++ cpptutor](https://learnmoderncpp.com/author/learnmoderncpp/) • [DEV Community](https://dev.to/) • [Byte-sized Design's Official List of System Design Blogs](https://bytesizeddesign.substack.com/p/the-byte-sized-design-list-of-system) • [Sandor Dargo's Blog](https://www.sandordargo.com/)
+[Preshing on Programming](https://preshing.com/) • [Popular topics for C++ interviews (with links)](https://www.pradeepbangalore.in/post/popular-topics-for-c-interviews) • [EXCEPTION HANDLING: A FALSE SENSE OF SECURITY by Tom Cargill](https://ptgmedia.pearsoncmg.com/images/020163371x/supplements/Exception_Handling_Article.html) • [Learn Modern C++ cpptutor](https://learnmoderncpp.com/author/learnmoderncpp/) • [DEV Community](https://dev.to/) • [Byte-sized Design's Official List of System Design Blogs](https://bytesizeddesign.substack.com/p/the-byte-sized-design-list-of-system) • [Sandor Dargo's Blog](https://www.sandordargo.com/)
 # Online books
 [C++ Concurrency in Action, 2nd](https://livebook.manning.com/book/c-plus-plus-concurrency-in-action-second-edition/)
 # Conferences
@@ -21,6 +21,8 @@
 [Popular topics for C++ interviews](https://www.pradeepbangalore.in/post/popular-topics-for-c-interviews)
 # Data Strcutures and Algorithms
 [Time Complexities of all Sorting Algorithms - geeksforgeeks](https://www.geeksforgeeks.org/time-complexities-of-all-sorting-algorithms/)
+# Concurrency and Parallelism
+[An Introduction to Lock-Free Programming](https://preshing.com/20120612/an-introduction-to-lock-free-programming/) • [1024cores](https://www.1024cores.net/) • [Fear and Loathing in Lock-Free Programming (java)](https://medium.com/@tylerneely/fear-and-loathing-in-lock-free-programming-7158b1cdd50c) • [Dining Philosophers Rebooted](https://howardhinnant.github.io/dining_philosophers.html) • [Writing Lock-Free Code: A Corrected Queue (Sutter)](https://www.drdobbs.com/parallel/writing-lock-free-code-a-corrected-queue/210604448) • [Effective Concurrency: The Power of “In Progress” (Sutter)](https://herbsutter.com/2009/07/15/effective-concurrency/)
 # Links
 [cppreference.com Useful resources](https://en.cppreference.com/w/cpp/links)
 # Style Guides
