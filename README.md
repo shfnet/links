@@ -1,5 +1,5 @@
 # Project Ideas
-[interviewbit](https://www.interviewbit.com/blog/category/projects/) • [Coding Challenges](https://codingchallenges.fyi/)
+[Interview Bit](https://www.interviewbit.com/blog/category/projects/) • [Coding Challenges](https://codingchallenges.fyi/)
 # System Design
 [How 0.1% Companies Do Hyperscaling](https://newsletter.systemdesign.one/p/cell-based-architecture)
 # Blogs
