@@ -17,6 +17,8 @@
 [Cee Plus Plus Idioms](https://wiki.c2.com/?CeePlusPlusIdioms) • [More C++ Idioms](https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms) • [cppdepend Top 7 most used C++ idioms](https://cppdepend.com/blog/top-7-most-used-c-idioms-part1/) • [A handful of C++ idioms](https://learnmoderncpp.com/2021/04/23/a-handful-of-c-idioms/)
 ## Argument-dependent lookup (ADL)
 [cppreference ADL](https://en.cppreference.com/w/cpp/language/adl) • [What's in a class](http://www.gotw.ca/publications/mill02.htm)
+## Popular Interview Topics
+[Popular topics for C++ interviews](https://www.pradeepbangalore.in/post/popular-topics-for-c-interviews)
 # Data Strcutures and Algorithms
 [Time Complexities of all Sorting Algorithms - geeksforgeeks](https://www.geeksforgeeks.org/time-complexities-of-all-sorting-algorithms/)
 # Links
