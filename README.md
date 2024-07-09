@@ -2,6 +2,8 @@
 [Interview Bit](https://www.interviewbit.com/blog/category/projects/) • [Coding Challenges](https://codingchallenges.fyi/)
 # System Design
 [Software Architecture Monday](https://www.developertoarchitect.com/lessons/) • [How 0.1% Companies Do Hyperscaling](https://newsletter.systemdesign.one/p/cell-based-architecture)
+## Load Balancing
+[What Is Load Balancing?](https://avinetworks.com/what-is-load-balancing/)
 # Blogs
 [Preshing on Programming](https://preshing.com/) • [Popular topics for C++ interviews (with links)](https://www.pradeepbangalore.in/post/popular-topics-for-c-interviews) • [EXCEPTION HANDLING: A FALSE SENSE OF SECURITY by Tom Cargill](https://ptgmedia.pearsoncmg.com/images/020163371x/supplements/Exception_Handling_Article.html) • [Learn Modern C++ cpptutor](https://learnmoderncpp.com/author/learnmoderncpp/) • [DEV Community](https://dev.to/) • [Byte-sized Design's Official List of System Design Blogs](https://bytesizeddesign.substack.com/p/the-byte-sized-design-list-of-system) • [Sandor Dargo's Blog](https://www.sandordargo.com/)
 # Online books
