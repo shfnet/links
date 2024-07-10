@@ -8,6 +8,8 @@
 [Introduction to architecting systems for scale](https://lethain.com/introduction-to-architecting-systems-for-scale/)
 ## Database
 [Amazon's Dynamo](https://www.allthingsdistributed.com/2007/10/amazons_dynamo.html)
+## Consistent Hashing
+[Data Distribution in Apache Ignite](https://dzone.com/articles/data-distribution-in-apache-ignite)
 # Blogs
 [Preshing on Programming](https://preshing.com/) • [Popular topics for C++ interviews (with links)](https://www.pradeepbangalore.in/post/popular-topics-for-c-interviews) • [EXCEPTION HANDLING: A FALSE SENSE OF SECURITY by Tom Cargill](https://ptgmedia.pearsoncmg.com/images/020163371x/supplements/Exception_Handling_Article.html) • [Learn Modern C++ cpptutor](https://learnmoderncpp.com/author/learnmoderncpp/) • [DEV Community](https://dev.to/) • [Byte-sized Design's Official List of System Design Blogs](https://bytesizeddesign.substack.com/p/the-byte-sized-design-list-of-system) • [Sandor Dargo's Blog](https://www.sandordargo.com/)
 # Online books
