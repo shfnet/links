@@ -16,6 +16,8 @@
 [Free-DevOps-Books-1](https://github.com/rootusercop/Free-DevOps-Books-1)
 ## Online Books
 [C++ Concurrency in Action, 2nd](https://livebook.manning.com/book/c-plus-plus-concurrency-in-action-second-edition/)
+## Book Summaries
+[SaraLerma](https://github.com/SaraLerma)
 # Conferences
 [boostcon](https://github.com/boostcon)
 # C++
