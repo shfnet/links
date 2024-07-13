@@ -14,11 +14,13 @@
 [Preshing on Programming](https://preshing.com/) • [Popular topics for C++ interviews (with links)](https://www.pradeepbangalore.in/post/popular-topics-for-c-interviews) • [EXCEPTION HANDLING: A FALSE SENSE OF SECURITY by Tom Cargill](https://ptgmedia.pearsoncmg.com/images/020163371x/supplements/Exception_Handling_Article.html) • [Learn Modern C++ cpptutor](https://learnmoderncpp.com/author/learnmoderncpp/) • [DEV Community](https://dev.to/) • [Byte-sized Design's Official List of System Design Blogs](https://bytesizeddesign.substack.com/p/the-byte-sized-design-list-of-system) • [Sandor Dargo's Blog](https://www.sandordargo.com/)
 # Books
 ## Book Directories
-[Free-DevOps-Books-1](https://github.com/rootusercop/Free-DevOps-Books-1) • [Reference Books](https://github.com/iamindian/References_Books/tree/master)
+[Root User Cop](https://github.com/rootusercop/Free-DevOps-Books-1) • [I am Indian](https://github.com/iamindian/References_Books/tree/master) • [The Mocking Jester](https://github.com/themockingjester/Books/tree/master)
 ## Online Books
 [C++ Concurrency in Action, 2nd](https://livebook.manning.com/book/c-plus-plus-concurrency-in-action-second-edition/)
 ## Book Summaries
 [SaraLerma](https://github.com/SaraLerma)
+## Book Suggestions
+[Sam Newman](https://samnewman.io/books/)
 # Conferences
 [boostcon](https://github.com/boostcon)
 # C++
