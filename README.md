@@ -1,7 +1,7 @@
 # Project Ideas
 [Interview Bit](https://www.interviewbit.com/blog/category/projects/) • [Coding Challenges](https://codingchallenges.fyi/)
 # System Design
-[Software Architecture Monday](https://www.developertoarchitect.com/lessons/) • [How 0.1% Companies Do Hyperscaling](https://newsletter.systemdesign.one/p/cell-based-architecture) • [Akamai Learning Glossary](https://www.akamai.com/glossary) • [Akamai Blog](https://www.linode.com/blog/) • [Neo Kim - Fundamentals](https://systemdesign.one/categories/fundamentals/)
+[Software Architecture Monday](https://www.developertoarchitect.com/lessons/) • [How 0.1% Companies Do Hyperscaling](https://newsletter.systemdesign.one/p/cell-based-architecture) • [Akamai Learning Glossary](https://www.akamai.com/glossary) • [Akamai Blog](https://www.linode.com/blog/) • [Neo Kim - Fundamentals](https://systemdesign.one/categories/fundamentals/) • [Particular Software Blog](https://particular.net/blog) • [Cloud Design Patterns - MS](https://learn.microsoft.com/en-us/azure/architecture/patterns/) • [Data Consistency Primer - MS](https://learn.microsoft.com/en-us/previous-versions/msp-n-p/dn589800(v=pandp.10))
 ## Load Balancing
 [What Is Load Balancing?](https://avinetworks.com/what-is-load-balancing/)
 ## Caching
