@@ -2,6 +2,10 @@
 [Interview Bit](https://www.interviewbit.com/blog/category/projects/) • [Coding Challenges](https://codingchallenges.fyi/)
 # System Design
 [Software Architecture Monday](https://www.developertoarchitect.com/lessons/) • [How 0.1% Companies Do Hyperscaling](https://newsletter.systemdesign.one/p/cell-based-architecture) • [Akamai Learning Glossary](https://www.akamai.com/glossary) • [Akamai Blog](https://www.linode.com/blog/) • [Neo Kim - Fundamentals](https://systemdesign.one/categories/fundamentals/) • [Particular Software Blog](https://particular.net/blog) • [Cloud Design Patterns - MS](https://learn.microsoft.com/en-us/azure/architecture/patterns/) • [Data Consistency Primer - MS](https://learn.microsoft.com/en-us/previous-versions/msp-n-p/dn589800(v=pandp.10))
+## On Youtube
+[the roadmap](https://www.youtube.com/theroadmap) • [System Design Fight Club](https://www.youtube.com/@SDFC/videos)
+## Websites
+[Developer Roadmaps](https://roadmap.sh/)
 ## Load Balancing
 [What Is Load Balancing?](https://avinetworks.com/what-is-load-balancing/)
 ## Caching
@@ -37,7 +41,7 @@
 # Data Strcutures and Algorithms
 [Time Complexities of all Sorting Algorithms - geeksforgeeks](https://www.geeksforgeeks.org/time-complexities-of-all-sorting-algorithms/)
 # Concurrency and Parallelism
-[An Introduction to Lock-Free Programming](https://preshing.com/20120612/an-introduction-to-lock-free-programming/) • [1024cores](https://www.1024cores.net/) • [Fear and Loathing in Lock-Free Programming (java)](https://medium.com/@tylerneely/fear-and-loathing-in-lock-free-programming-7158b1cdd50c) • [Dining Philosophers Rebooted](https://howardhinnant.github.io/dining_philosophers.html) • [Writing Lock-Free Code: A Corrected Queue (Sutter)](https://www.drdobbs.com/parallel/writing-lock-free-code-a-corrected-queue/210604448) • [Effective Concurrency: The Power of “In Progress” (Sutter)](https://herbsutter.com/2009/07/15/effective-concurrency/) • [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://cdn.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
+[An Introduction to Lock-Free Programming](https://preshing.com/20120612/an-introduction-to-lock-free-programming/) • [1024cores](https://www.1024cores.net/) • [Fear and Loathing in Lock-Free Programming (java)](https://medium.com/@tylerneely/fear-and-loathing-in-lock-free-programming-7158b1cdd50c) • [Dining Philosophers Rebooted](https://howardhinnant.github.io/dining_philosophers.html) • [Writing Lock-Free Code: A Corrected Queue (Sutter)](https://www.drdobbs.com/parallel/writing-lock-free-code-a-corrected-queue/210604448) • [Effective Concurrency: The Power of “In Progress” (Sutter)](https://herbsutter.com/2009/07/15/effective-concurrency/) • [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://cdn.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html) • [Boost Synchronization 1.47.0](https://www.boost.org/doc/libs/1_47_0/doc/html/thread/synchronization.html) • [Boost Synchronization 1.52.0](https://www.boost.org/doc/libs/1_52_0/doc/html/thread/synchronization.html) • [Boost Synchronization 1.85.0](https://www.boost.org/doc/libs/1_85_0/doc/html/thread/synchronization.html) • [Handling mutexes in C++ - Howard Hinnant](https://web.archive.org/web/20140531071228/http://home.roadrunner.com/~hinnant/mutexes/locking.html) • [Mutex, Lock, Condition Variable Rationale](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2406.html)
 # google search
 ## Network Security
 tls certification verification • client certificate authentication
