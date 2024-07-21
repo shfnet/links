@@ -2,6 +2,8 @@
 [Interview Bit](https://www.interviewbit.com/blog/category/projects/) • [Coding Challenges](https://codingchallenges.fyi/)
 # System Design
 [Software Architecture Monday](https://www.developertoarchitect.com/lessons/) • [How 0.1% Companies Do Hyperscaling](https://newsletter.systemdesign.one/p/cell-based-architecture) • [Akamai Learning Glossary](https://www.akamai.com/glossary) • [Akamai Blog](https://www.linode.com/blog/) • [Neo Kim - Fundamentals](https://systemdesign.one/categories/fundamentals/) • [Particular Software Blog](https://particular.net/blog) • [Cloud Design Patterns - MS](https://learn.microsoft.com/en-us/azure/architecture/patterns/) • [Data Consistency Primer - MS](https://learn.microsoft.com/en-us/previous-versions/msp-n-p/dn589800(v=pandp.10))
+## Learning Center
+[Cloudflare](https://www.cloudflare.com/learning/)
 ## On Youtube
 [the roadmap](https://www.youtube.com/theroadmap) • [System Design Fight Club](https://www.youtube.com/@SDFC/videos)
 ## Websites
@@ -11,7 +13,11 @@
 ## Caching
 [Introduction to architecting systems for scale](https://lethain.com/introduction-to-architecting-systems-for-scale/)
 ## Database
+[Database Fundamentals - tontinton](https://tontinton.com/posts/database-fundementals/)
+### Dynamo
 [Amazon's Dynamo](https://www.allthingsdistributed.com/2007/10/amazons_dynamo.html)
+### Kafka
+[Kafka 101](https://highscalability.com/untitled-2/)
 ## Consistent Hashing
 [Data Distribution in Apache Ignite](https://dzone.com/articles/data-distribution-in-apache-ignite)
 # Blogs
