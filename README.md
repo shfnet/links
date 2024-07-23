@@ -35,6 +35,9 @@
 [boostcon](https://github.com/boostcon)
 # C++
 [Bjarne Stroustrup's C++ Style and Technique FAQ](https://www.stroustrup.com/bs_faq.html)
+## Perfect Forwarding - Raymond Chen The Old New Thing
+table.emplace(std::piecewise_construct, std::forward_as_tuple(1), std::forward_as_tuple());
+[What’s up with std::piecewise_construct and std::forward_as_tuple?](https://devblogs.microsoft.com/oldnewthing/20220428-00/?p=106540) • [Speeding up the insertion of a sorted (or mostly-sorted) key list into a std::map or other ordered associative container](https://devblogs.microsoft.com/oldnewthing/20230522-00/?p=108226) • [How do I add a non-copyable, non-movable object to a std::map or std::unordered_map?](https://devblogs.microsoft.com/oldnewthing/20231023-00/?p=108916)
 ## Patterns
 [Game Programming Patterns Command](https://gameprogrammingpatterns.com/command.html) • [c++patterns](https://cpppatterns.com/) • [Design Patterns: The most common misconceptions - Klaus Iglberger - Meeting C++ 2023](https://www.youtube.com/watch?v=w-fkFyrbWbs) • [Memory Model: Get your shared data under control - Jana Machutová - Meeting C++ 2023
 ](https://www.youtube.com/watch?v=L5RCGDAan2Y)
