@@ -26,7 +26,7 @@
 ## Book Directories
 [Root User Cop](https://github.com/rootusercop/Free-DevOps-Books-1) • [I am Indian](https://github.com/iamindian/References_Books/tree/master) • [The Mocking Jester](https://github.com/themockingjester/Books/tree/master)
 ## Online Books
-[C++ Concurrency in Action, 2nd](https://livebook.manning.com/book/c-plus-plus-concurrency-in-action-second-edition/)
+[C++ Concurrency in Action, 2nd](https://livebook.manning.com/book/c-plus-plus-concurrency-in-action-second-edition/) and [errata](https://www.cplusplusconcurrencyinaction.com/errata.html)
 ## Book Summaries
 [SaraLerma](https://github.com/SaraLerma)
 ## Book Suggestions
