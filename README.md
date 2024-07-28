@@ -1,7 +1,7 @@
 # Project Ideas
 [Interview Bit](https://www.interviewbit.com/blog/category/projects/) • [Coding Challenges](https://codingchallenges.fyi/)
 # System Design
-[Software Architecture Monday](https://www.developertoarchitect.com/lessons/) • [How 0.1% Companies Do Hyperscaling](https://newsletter.systemdesign.one/p/cell-based-architecture) • [Akamai Learning Glossary](https://www.akamai.com/glossary) • [Akamai Blog](https://www.linode.com/blog/) • [Neo Kim - Fundamentals](https://systemdesign.one/categories/fundamentals/) • [Particular Software Blog](https://particular.net/blog) • [Cloud Design Patterns - MS](https://learn.microsoft.com/en-us/azure/architecture/patterns/) • [Data Consistency Primer - MS](https://learn.microsoft.com/en-us/previous-versions/msp-n-p/dn589800(v=pandp.10))
+[Software Architecture Monday](https://www.developertoarchitect.com/lessons/) • [How 0.1% Companies Do Hyperscaling](https://newsletter.systemdesign.one/p/cell-based-architecture) • [Akamai Learning Glossary](https://www.akamai.com/glossary) • [Akamai Blog](https://www.linode.com/blog/) • [Neo Kim - Fundamentals](https://systemdesign.one/categories/fundamentals/) • [Particular Software Blog](https://particular.net/blog) • [Cloud Design Patterns - MS](https://learn.microsoft.com/en-us/azure/architecture/patterns/) • [Data Consistency Primer - MS](https://learn.microsoft.com/en-us/previous-versions/msp-n-p/dn589800(v=pandp.10)) • [System Design Masterclass: Taro Playlists](https://www.jointaro.com/playlist/bTH3OeqzDbhOO1hmCiEC/)
 ## Learning Center
 [Cloudflare](https://www.cloudflare.com/learning/)
 ## On Youtube
@@ -43,6 +43,8 @@ table.emplace(std::piecewise_construct, std::forward_as_tuple(1), std::forward_a
 ](https://www.youtube.com/watch?v=L5RCGDAan2Y)
 ## Idioms
 [Cee Plus Plus Idioms](https://wiki.c2.com/?CeePlusPlusIdioms) • [More C++ Idioms](https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms) • [cppdepend Top 7 most used C++ idioms](https://cppdepend.com/blog/top-7-most-used-c-idioms-part1/) • [A handful of C++ idioms](https://learnmoderncpp.com/2021/04/23/a-handful-of-c-idioms/)
+## Smart Pointers
+[22.7 — Circular dependency issues with std::shared_ptr, and std::weak_ptr](https://www.learncpp.com/cpp-tutorial/circular-dependency-issues-with-stdshared_ptr-and-stdweak_ptr/#:~:text=The%20practical%20effect%20of%20having,other%20object%20still%20needs%20it!) • [cppreference.com - std::weak_ptr<T>::~weak_ptr](https://en.cppreference.com/w/cpp/memory/weak_ptr/%7Eweak_ptr#Example)
 ## Argument-dependent lookup (ADL)
 [cppreference ADL](https://en.cppreference.com/w/cpp/language/adl) • [What's in a class](http://www.gotw.ca/publications/mill02.htm)
 ## Popular Interview Topics
@@ -51,6 +53,8 @@ table.emplace(std::piecewise_construct, std::forward_as_tuple(1), std::forward_a
 [Time Complexities of all Sorting Algorithms - geeksforgeeks](https://www.geeksforgeeks.org/time-complexities-of-all-sorting-algorithms/)
 # Concurrency and Parallelism
 [An Introduction to Lock-Free Programming](https://preshing.com/20120612/an-introduction-to-lock-free-programming/) • [1024cores](https://www.1024cores.net/) • [Fear and Loathing in Lock-Free Programming (java)](https://medium.com/@tylerneely/fear-and-loathing-in-lock-free-programming-7158b1cdd50c) • [Dining Philosophers Rebooted](https://howardhinnant.github.io/dining_philosophers.html) • [Writing Lock-Free Code: A Corrected Queue (Sutter)](https://www.drdobbs.com/parallel/writing-lock-free-code-a-corrected-queue/210604448) • [Effective Concurrency: The Power of “In Progress” (Sutter)](https://herbsutter.com/2009/07/15/effective-concurrency/) • [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://cdn.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html) • [Boost Synchronization 1.47.0](https://www.boost.org/doc/libs/1_47_0/doc/html/thread/synchronization.html) • [Boost Synchronization 1.52.0](https://www.boost.org/doc/libs/1_52_0/doc/html/thread/synchronization.html) • [Boost Synchronization 1.85.0](https://www.boost.org/doc/libs/1_85_0/doc/html/thread/synchronization.html) • [Handling mutexes in C++ - Howard Hinnant](https://web.archive.org/web/20140531071228/http://home.roadrunner.com/~hinnant/mutexes/locking.html) • [Mutex, Lock, Condition Variable Rationale](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2406.html)
+# Source Control
+[Every engineer should understand git reflog](https://graphite.dev/blog/every-engineer-should-understand-git-reflog)
 # google search
 ## Network Security
 tls certification verification • client certificate authentication
@@ -62,3 +66,6 @@ ai project ideas for programmers
 [Google Style Guides](https://google.github.io/styleguide/) • [PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/)
 # Communities
 [Open Source and Free Software in Israel - Meetup](https://www.meetup.com/Open-Source-and-Free-Software-in-Israel/)
+# Services
+## Domain Hosting
+[one.com](www.one.com)
