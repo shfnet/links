@@ -1,7 +1,7 @@
 # Project Ideas
 [Interview Bit](https://www.interviewbit.com/blog/category/projects/) • [Coding Challenges](https://codingchallenges.fyi/)
 # System Design
-[Software Architecture Monday](https://www.developertoarchitect.com/lessons/) • [How 0.1% Companies Do Hyperscaling](https://newsletter.systemdesign.one/p/cell-based-architecture) • [Akamai Learning Glossary](https://www.akamai.com/glossary) • [Akamai Blog](https://www.linode.com/blog/) • [Neo Kim - Fundamentals](https://systemdesign.one/categories/fundamentals/) • [Particular Software Blog](https://particular.net/blog) • [Cloud Design Patterns - MS](https://learn.microsoft.com/en-us/azure/architecture/patterns/) • [Data Consistency Primer - MS](https://learn.microsoft.com/en-us/previous-versions/msp-n-p/dn589800(v=pandp.10)) • [System Design Masterclass: Taro Playlists](https://www.jointaro.com/playlist/bTH3OeqzDbhOO1hmCiEC/) • [Back of the Envelope](https://systemdesign.one/back-of-the-envelope/)
+[ByteByteGo - System Design Interview](https://bytebytego.com/courses/system-design-interview/scale-from-zero-to-millions-of-users) • [ByteByteGo - Machine Learning System Design Interview](https://bytebytego.com/intro/machine-learning-system-design-interview) • [Software Architecture Monday](https://www.developertoarchitect.com/lessons/) • [How 0.1% Companies Do Hyperscaling](https://newsletter.systemdesign.one/p/cell-based-architecture) • [Akamai Learning Glossary](https://www.akamai.com/glossary) • [Akamai Blog](https://www.linode.com/blog/) • [Neo Kim - Fundamentals](https://systemdesign.one/categories/fundamentals/) • [Particular Software Blog](https://particular.net/blog) • [Cloud Design Patterns - MS](https://learn.microsoft.com/en-us/azure/architecture/patterns/) • [Data Consistency Primer - MS](https://learn.microsoft.com/en-us/previous-versions/msp-n-p/dn589800(v=pandp.10)) • [System Design Masterclass: Taro Playlists](https://www.jointaro.com/playlist/bTH3OeqzDbhOO1hmCiEC/) • [Back of the Envelope](https://systemdesign.one/back-of-the-envelope/)
 ## Learning Center
 [Cloudflare](https://www.cloudflare.com/learning/)
 ## On Youtube
@@ -37,6 +37,8 @@
 [boostcon](https://github.com/boostcon)
 # C++
 [Bjarne Stroustrup's C++ Style and Technique FAQ](https://www.stroustrup.com/bs_faq.html)
+## Type layout
+[When an empty destructor is required](https://andreasfertig.blog/2023/12/when-an-empty-destructor-is-required/)
 ## Perfect Forwarding - Raymond Chen The Old New Thing
 table.emplace(std::piecewise_construct, std::forward_as_tuple(1), std::forward_as_tuple());
 [What’s up with std::piecewise_construct and std::forward_as_tuple?](https://devblogs.microsoft.com/oldnewthing/20220428-00/?p=106540) • [Speeding up the insertion of a sorted (or mostly-sorted) key list into a std::map or other ordered associative container](https://devblogs.microsoft.com/oldnewthing/20230522-00/?p=108226) • [How do I add a non-copyable, non-movable object to a std::map or std::unordered_map?](https://devblogs.microsoft.com/oldnewthing/20231023-00/?p=108916)
