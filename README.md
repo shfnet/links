@@ -1,7 +1,7 @@
 # Project Ideas
 [Interview Bit](https://www.interviewbit.com/blog/category/projects/) • [Coding Challenges](https://codingchallenges.fyi/)
 # System Design
-[Software Architecture Monday](https://www.developertoarchitect.com/lessons/) • [How 0.1% Companies Do Hyperscaling](https://newsletter.systemdesign.one/p/cell-based-architecture) • [Akamai Learning Glossary](https://www.akamai.com/glossary) • [Akamai Blog](https://www.linode.com/blog/) • [Neo Kim - Fundamentals](https://systemdesign.one/categories/fundamentals/) • [Particular Software Blog](https://particular.net/blog) • [Cloud Design Patterns - MS](https://learn.microsoft.com/en-us/azure/architecture/patterns/) • [Data Consistency Primer - MS](https://learn.microsoft.com/en-us/previous-versions/msp-n-p/dn589800(v=pandp.10)) • [System Design Masterclass: Taro Playlists](https://www.jointaro.com/playlist/bTH3OeqzDbhOO1hmCiEC/)
+[Software Architecture Monday](https://www.developertoarchitect.com/lessons/) • [How 0.1% Companies Do Hyperscaling](https://newsletter.systemdesign.one/p/cell-based-architecture) • [Akamai Learning Glossary](https://www.akamai.com/glossary) • [Akamai Blog](https://www.linode.com/blog/) • [Neo Kim - Fundamentals](https://systemdesign.one/categories/fundamentals/) • [Particular Software Blog](https://particular.net/blog) • [Cloud Design Patterns - MS](https://learn.microsoft.com/en-us/azure/architecture/patterns/) • [Data Consistency Primer - MS](https://learn.microsoft.com/en-us/previous-versions/msp-n-p/dn589800(v=pandp.10)) • [System Design Masterclass: Taro Playlists](https://www.jointaro.com/playlist/bTH3OeqzDbhOO1hmCiEC/) • [Back of the Envelope](https://systemdesign.one/back-of-the-envelope/)
 ## Learning Center
 [Cloudflare](https://www.cloudflare.com/learning/)
 ## On Youtube
@@ -11,7 +11,7 @@
 ## Load Balancing
 [What Is Load Balancing?](https://avinetworks.com/what-is-load-balancing/)
 ## Caching
-[Introduction to architecting systems for scale](https://lethain.com/introduction-to-architecting-systems-for-scale/)
+[Introduction to architecting systems for scale](https://lethain.com/introduction-to-architecting-systems-for-scale/) • [Top 5 Caching Patterns](https://newsletter.systemdesign.one/p/caching-patterns) • [Consistency Patterns](https://systemdesign.one/consistency-patterns/) • [How Giphy Delivers 10 Billion GIFs a Day to 1 Billion Users](https://newsletter.systemdesign.one/p/cdn-explained)
 ## Database
 [Database Fundamentals - tontinton](https://tontinton.com/posts/database-fundementals/)
 ### Dynamo
@@ -19,7 +19,9 @@
 ### Kafka
 [Kafka 101](https://highscalability.com/untitled-2/)
 ## Consistent Hashing
-[Data Distribution in Apache Ignite](https://dzone.com/articles/data-distribution-in-apache-ignite)
+[Consistent Hashing Explained](https://systemdesign.one/consistent-hashing-explained/#what-are-the-drawbacks-of-consistent-hashing) • [Data Distribution in Apache Ignite](https://dzone.com/articles/data-distribution-in-apache-ignite)
+## Service Discovery
+[What Is Service Discovery?](https://systemdesign.one/what-is-service-discovery/)
 # Blogs
 [Preshing on Programming](https://preshing.com/) • [Popular topics for C++ interviews (with links)](https://www.pradeepbangalore.in/post/popular-topics-for-c-interviews) • [EXCEPTION HANDLING: A FALSE SENSE OF SECURITY by Tom Cargill](https://ptgmedia.pearsoncmg.com/images/020163371x/supplements/Exception_Handling_Article.html) • [Learn Modern C++ cpptutor](https://learnmoderncpp.com/author/learnmoderncpp/) • [DEV Community](https://dev.to/) • [Byte-sized Design's Official List of System Design Blogs](https://bytesizeddesign.substack.com/p/the-byte-sized-design-list-of-system) • [Sandor Dargo's Blog](https://www.sandordargo.com/)
 # Books
@@ -53,6 +55,9 @@ table.emplace(std::piecewise_construct, std::forward_as_tuple(1), std::forward_a
 [Time Complexities of all Sorting Algorithms - geeksforgeeks](https://www.geeksforgeeks.org/time-complexities-of-all-sorting-algorithms/)
 # Concurrency and Parallelism
 [An Introduction to Lock-Free Programming](https://preshing.com/20120612/an-introduction-to-lock-free-programming/) • [1024cores](https://www.1024cores.net/) • [Fear and Loathing in Lock-Free Programming (java)](https://medium.com/@tylerneely/fear-and-loathing-in-lock-free-programming-7158b1cdd50c) • [Dining Philosophers Rebooted](https://howardhinnant.github.io/dining_philosophers.html) • [Writing Lock-Free Code: A Corrected Queue (Sutter)](https://www.drdobbs.com/parallel/writing-lock-free-code-a-corrected-queue/210604448) • [Effective Concurrency: The Power of “In Progress” (Sutter)](https://herbsutter.com/2009/07/15/effective-concurrency/) • [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://cdn.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html) • [Boost Synchronization 1.47.0](https://www.boost.org/doc/libs/1_47_0/doc/html/thread/synchronization.html) • [Boost Synchronization 1.52.0](https://www.boost.org/doc/libs/1_52_0/doc/html/thread/synchronization.html) • [Boost Synchronization 1.85.0](https://www.boost.org/doc/libs/1_85_0/doc/html/thread/synchronization.html) • [Handling mutexes in C++ - Howard Hinnant](https://web.archive.org/web/20140531071228/http://home.roadrunner.com/~hinnant/mutexes/locking.html) • [Mutex, Lock, Condition Variable Rationale](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2406.html)
+# C# .net
+[How Async/Await Really Works in C# - Including the state machine - Stephen Toub](https://devblogs.microsoft.com/dotnet/how-async-await-really-works/) • [Assemblies in .NET](https://learn.microsoft.com/en-us/dotnet/standard/assembly/) • [Common Language Runtime (CLR) overview](https://learn.microsoft.com/en-us/dotnet/standard/clr) • [Managed execution process](https://learn.microsoft.com/en-us/dotnet/standard/managed-execution-process) • [How to: Build a multifile assembly](https://learn.microsoft.com/en-us/dotnet/framework/app-domains/build-multifile-assembly) • 
+[Performance Improvements in .NET 8](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-8/)
 # Source Control
 [Every engineer should understand git reflog](https://graphite.dev/blog/every-engineer-should-understand-git-reflog)
 # google search
