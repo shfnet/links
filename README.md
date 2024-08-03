@@ -40,7 +40,7 @@
 # C++
 [Bjarne Stroustrup's C++ Style and Technique FAQ](https://www.stroustrup.com/bs_faq.html)
 ## Type layout
-[When an empty destructor is required](https://andreasfertig.blog/2023/12/when-an-empty-destructor-is-required/)
+[When an empty destructor is required](https://andreasfertig.blog/2023/12/when-an-empty-destructor-is-required/) • [Once more about the rule of 5](https://www.sandordargo.com/blog/2024/07/31/rule-of-5-once-again)
 ## Perfect Forwarding - Raymond Chen The Old New Thing
 table.emplace(std::piecewise_construct, std::forward_as_tuple(1), std::forward_as_tuple());
 [What’s up with std::piecewise_construct and std::forward_as_tuple?](https://devblogs.microsoft.com/oldnewthing/20220428-00/?p=106540) • [Speeding up the insertion of a sorted (or mostly-sorted) key list into a std::map or other ordered associative container](https://devblogs.microsoft.com/oldnewthing/20230522-00/?p=108226) • [How do I add a non-copyable, non-movable object to a std::map or std::unordered_map?](https://devblogs.microsoft.com/oldnewthing/20231023-00/?p=108916)
