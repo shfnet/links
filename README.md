@@ -38,7 +38,7 @@
 # Conferences
 [boostcon](https://github.com/boostcon)
 # C++
-[Bjarne Stroustrup's C++ Style and Technique FAQ](https://www.stroustrup.com/bs_faq.html)
+[Bjarne Stroustrup's C++ Style and Technique FAQ](https://www.stroustrup.com/bs_faq.html) • [HowardHinnant.github.io](https://howardhinnant.github.io/)
 ## Type layout
 [When an empty destructor is required](https://andreasfertig.blog/2023/12/when-an-empty-destructor-is-required/) • [Once more about the rule of 5](https://www.sandordargo.com/blog/2024/07/31/rule-of-5-once-again)
 ## Perfect Forwarding - Raymond Chen The Old New Thing
