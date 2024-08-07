@@ -35,6 +35,10 @@
 [SaraLerma](https://github.com/SaraLerma)
 ## Book Suggestions
 [Sam Newman](https://samnewman.io/books/)
+## Errata
+[Errata for Fundamentals of Software Architecture](https://www.oreilly.com/catalog/errata.csp?isbn=9781492043454)
+## Accompanying code
+
 # Conferences
 [boostcon](https://github.com/boostcon)
 # C++
