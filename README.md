@@ -71,6 +71,10 @@ ___
 # C# .net
 [How Async/Await Really Works in C# - Including the state machine - Stephen Toub](https://devblogs.microsoft.com/dotnet/how-async-await-really-works/) • [Six ways to initiate tasks on another thread in .NET](https://markheath.net/post/starting-threads-in-dotnet) • [Jeremy Byte - Task and Await](http://www.jeremybytes.com/Demos.aspx#TaskAndAwait) • [Assemblies in .NET](https://learn.microsoft.com/en-us/dotnet/standard/assembly/) • [Common Language Runtime (CLR) overview](https://learn.microsoft.com/en-us/dotnet/standard/clr) • [Managed execution process](https://learn.microsoft.com/en-us/dotnet/standard/managed-execution-process) • [How to: Build a multifile assembly](https://learn.microsoft.com/en-us/dotnet/framework/app-domains/build-multifile-assembly) • 
 [Performance Improvements in .NET 8](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-8/)
+## .net memory
+[Analyze GC Roots](https://www.jetbrains.com/help/dotmemory/Analyzing_GC_Roots.html) • [Implement a Dispose method](https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/implementing-dispose) • [Generations and Performance](https://learn.microsoft.com/en-us/dotnet/standard/automatic-memory-management#generations-and-performance) • [Memory management and garbage collection (GC) in ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/performance/memory?view=aspnetcore-9.0) • 
+### Shpilt
+[5 Techniques to avoid Memory Leaks by Events](https://michaelscodingspot.com/5-techniques-to-avoid-memory-leaks-by-events-in-c-net-you-should-know/) • [Find, Fix, and Avoid Memory Leaks](https://michaelscodingspot.com/find-fix-and-avoid-memory-leaks-in-c-net-8-best-practices/) • [Cause Memory Leaks](https://michaelscodingspot.com/ways-to-cause-memory-leaks-in-dotnet/)
 # Source Control
 [Every engineer should understand git reflog](https://graphite.dev/blog/every-engineer-should-understand-git-reflog)
 # google search
