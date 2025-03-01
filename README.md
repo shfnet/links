@@ -1,7 +1,7 @@
 # Project Ideas
 [Interview Bit](https://www.interviewbit.com/blog/category/projects/) • [Coding Challenges](https://codingchallenges.fyi/)
 # System Design
-[ByteByteGo - System Design Interview](https://bytebytego.com/courses/system-design-interview/scale-from-zero-to-millions-of-users) • [ByteByteGo - Machine Learning System Design Interview](https://bytebytego.com/intro/machine-learning-system-design-interview) • [Software Architecture Monday](https://www.developertoarchitect.com/lessons/) • [How 0.1% Companies Do Hyperscaling](https://newsletter.systemdesign.one/p/cell-based-architecture) • [Akamai Learning Glossary](https://www.akamai.com/glossary) • [Akamai Blog](https://www.linode.com/blog/) • [Neo Kim - Fundamentals](https://systemdesign.one/categories/fundamentals/) • [Particular Software Blog](https://particular.net/blog) • [Cloud Design Patterns - MS](https://learn.microsoft.com/en-us/azure/architecture/patterns/) • [Data Consistency Primer - MS](https://learn.microsoft.com/en-us/previous-versions/msp-n-p/dn589800(v=pandp.10)) • [System Design Masterclass: Taro Playlists](https://www.jointaro.com/playlist/bTH3OeqzDbhOO1hmCiEC/) • [Back of the Envelope](https://systemdesign.one/back-of-the-envelope/) • [Architectural Katas](https://fundamentalsofsoftwarearchitecture.com/)
+[AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/) • [Azure Architecture Blog](https://techcommunity.microsoft.com/category/azure/blog/azurearchitectureblog) • [ByteByteGo - System Design Interview](https://bytebytego.com/courses/system-design-interview/scale-from-zero-to-millions-of-users) • [ByteByteGo - Machine Learning System Design Interview](https://bytebytego.com/intro/machine-learning-system-design-interview) • [Software Architecture Monday](https://www.developertoarchitect.com/lessons/) • [How 0.1% Companies Do Hyperscaling](https://newsletter.systemdesign.one/p/cell-based-architecture) • [Akamai Learning Glossary](https://www.akamai.com/glossary) • [Akamai Blog](https://www.linode.com/blog/) • [Neo Kim - Fundamentals](https://systemdesign.one/categories/fundamentals/) • [Particular Software Blog](https://particular.net/blog) • [Cloud Design Patterns - MS](https://learn.microsoft.com/en-us/azure/architecture/patterns/) • [Data Consistency Primer - MS](https://learn.microsoft.com/en-us/previous-versions/msp-n-p/dn589800(v=pandp.10)) • [System Design Masterclass: Taro Playlists](https://www.jointaro.com/playlist/bTH3OeqzDbhOO1hmCiEC/) • [Back of the Envelope](https://systemdesign.one/back-of-the-envelope/) • [Architectural Katas](https://fundamentalsofsoftwarearchitecture.com/)
 ## Learning Center
 [Cloudflare](https://www.cloudflare.com/learning/)
 ## On Youtube
@@ -18,10 +18,14 @@
 [Amazon's Dynamo](https://www.allthingsdistributed.com/2007/10/amazons_dynamo.html)
 ### Kafka
 [Kafka 101](https://highscalability.com/untitled-2/)
+### Casandra
+[Apache Casandra Blog](https://cassandra.apache.org/_/blog.html)
 ## Consistent Hashing
 [Consistent Hashing Explained](https://systemdesign.one/consistent-hashing-explained/#what-are-the-drawbacks-of-consistent-hashing) • [Data Distribution in Apache Ignite](https://dzone.com/articles/data-distribution-in-apache-ignite)
 ## Service Discovery
 [What Is Service Discovery?](https://systemdesign.one/what-is-service-discovery/)
+## White Papers
+[Scaling Memcache at Facebook](https://research.facebook.com/publications/scaling-memcache-at-facebook/) • [The Google File System](https://research.google/pubs/the-google-file-system/)
 # Software Architecture
 [The Clean Architecture - Robert C. Martin](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) • [The Law of Leaky Abstractions - Joel on Software](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/) • [Book](Patterns of Enterprise Application Architecture) • [Design Patterns and Architectural Patterns with C++: A First Overview - Modernes CPP](https://www.modernescpp.com/index.php/design-patterns-and-architectural-patterns-a-first-overview/) • [Book](https://en.wikipedia.org/wiki/Pattern-Oriented_Software_Architecture)
 # Blogs
