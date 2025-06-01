@@ -28,6 +28,8 @@
 [Scaling Memcache at Facebook](https://research.facebook.com/publications/scaling-memcache-at-facebook/) • [The Google File System](https://research.google/pubs/the-google-file-system/)
 # Software Architecture
 [The Clean Architecture - Robert C. Martin](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) • [The Law of Leaky Abstractions - Joel on Software](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/) • [Book](Patterns of Enterprise Application Architecture) • [Design Patterns and Architectural Patterns with C++: A First Overview - Modernes CPP](https://www.modernescpp.com/index.php/design-patterns-and-architectural-patterns-a-first-overview/) • [Book](https://en.wikipedia.org/wiki/Pattern-Oriented_Software_Architecture)
+# Best practices
+[Source Making](https://sourcemaking.com/refactoring/refactorings)
 # Blogs
 [Preshing on Programming](https://preshing.com/) • [Popular topics for C++ interviews (with links)](https://www.pradeepbangalore.in/post/popular-topics-for-c-interviews) • [EXCEPTION HANDLING: A FALSE SENSE OF SECURITY by Tom Cargill](https://ptgmedia.pearsoncmg.com/images/020163371x/supplements/Exception_Handling_Article.html) • [Learn Modern C++ cpptutor](https://learnmoderncpp.com/author/learnmoderncpp/) • [DEV Community](https://dev.to/) • [Byte-sized Design's Official List of System Design Blogs](https://bytesizeddesign.substack.com/p/the-byte-sized-design-list-of-system) • [Sandor Dargo's Blog](https://www.sandordargo.com/) • [Barry's C++ Blog](https://brevzin.github.io/)
 # Books
